@@ -1,0 +1,1 @@
+int GetLastDig(int input);
